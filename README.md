@@ -193,7 +193,7 @@ Robotrix-26/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Robotrix-26.git
+git clone https://github.com/ADRSH99/Robotrix-26.git
 cd Robotrix-26
 pip install numpy opencv-python coppeliasim-zmqremoteapi-client
 ```
