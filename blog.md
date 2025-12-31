@@ -144,4 +144,12 @@ Sometimes the best optimization is to reframe the problem until it becomes trivi
 
 ---
 
+## Code
+
+The full solution, approach documentation, and competition video are available on GitHub:
+
+**🔗 [github.com/ADRSH99/Robotrix-26](https://github.com/ADRSH99/Robotrix-26)**
+
+---
+
 *Team Robodih | IEEE Robotrix 2025-26 | 🏆 1st Place*
