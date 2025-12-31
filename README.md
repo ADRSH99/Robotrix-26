@@ -172,10 +172,11 @@ Robotrix-26/
 ├── approach_explanation.txt              # Technical writeup
 ├── Final Cleared.mp4                     # Competition submission video
 ├── Robotrix 2026 Problem Statement.pdf   # Official problem statement
+├── World.ttt                             # CoppeliaSim scene file
 │
 └── Approach 1 - wall follow logic/       # Alternative approach (didn't work)
     ├── explanation.md             
-    ├── World.ttt                         # CoppeliaSim scene
+    ├── World.ttt                         
     ├── task14_final.py            
     └── all code files-iterations/        # 18 iterations of development
 ```
