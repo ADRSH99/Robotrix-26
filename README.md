@@ -169,7 +169,8 @@ SENSOR_ARRAY = [
 ```
 Robotrix-26/
 ├── task_submission.py                    # ✅ Winning solution
-├── approach_explanation.txt              # Technical writeup
+├── approach_explanation.md               # Technical writeup
+├── blog.md                               # Competition blog post
 ├── Final Cleared.mp4                     # Competition submission video
 ├── Robotrix 2026 Problem Statement.pdf   # Official problem statement
 ├── World.ttt                             # CoppeliaSim scene file
